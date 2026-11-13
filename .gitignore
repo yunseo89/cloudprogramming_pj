@@ -1,0 +1,11 @@
+.dart_tool/
+.flutter-plugins-dependencies
+build/
+coverage/
+*.iml
+.idea/
+.env
+config/*.local.json
+*.log
+
+node_modules/
